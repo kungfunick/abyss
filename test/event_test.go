@@ -3,8 +3,8 @@ package test
 import (
 	"fmt"
 	"testing"
-
-	"github.com/Danzabar/gorge/engine"
+	
+	"github.com/kungfunick/abyss/engine"
 	"github.com/stretchr/testify/assert"
 )
 

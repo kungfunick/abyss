@@ -1,7 +1,7 @@
 package test
 
 import (
-	"github.com/Danzabar/gorge/engine"
+	"github.com/kungfunick/abyss/engine"
 )
 
 type (
